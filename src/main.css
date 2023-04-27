@@ -36,7 +36,8 @@ footer {
 }
 
 .calc-button:hover {
-  color: #FFC107;
+  color: #daae2c;
+  background-color: #000;
 }
 
 .list {
