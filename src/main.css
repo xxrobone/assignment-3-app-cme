@@ -55,5 +55,11 @@ footer {
   place-content: center;
   border: 1px solid aqua;
   background-color: #121212;
+}
 
+.box:nth-of-type(2){
+  right: 10rem;
+  top: 60%;
+  z-index: 99;
+  background: linear-gradient(rgb(84, 121, 121), rgb(61, 90, 61));
 }
